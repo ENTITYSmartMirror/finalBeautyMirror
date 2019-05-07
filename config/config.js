@@ -476,7 +476,7 @@ var config = {
 					"Slide 2": ['MMM-Modulebar4','MMM-Modulebar5','MMM-EmbedYoutube1','MMM-EmbedYoutube2','MMM-iFrame40','mm-hide-all'],
 					"Slide 3": ['MMM-Modulebar', 'MMM-Modulebar1', 'MMM-Modulebar2', 'MMM-Modulebar3','mm-hide-all',],
 					"Slide 4": ['MMM-Testpython','MMM-iFrame17','MMM-iFrame18','MMM-iFrame19','MMM-iFrame20','MMM-iFrame21','MMM-iFrame22','MMM-Dynamic-Modules','mm-hide-all'],
-					"Slide 5": ['MMM-AfterImage','MMM-BeforeImage','MMM-Testpython1','mm-hide-all'],
+					"Slide 5": ['MMM-AfterImage','MMM-BeforeImage','MMM-BeforeAfter','mm-hide-all'],
 					"Slide 6": ['MMM-iFrame41','mm-hide-all','MMM-MovieInfo'],
 				},
 				keyBindings: { 
@@ -596,7 +596,32 @@ var config = {
 			showPublishDate: false
 		}
 	},
-
+	
+	{
+		module: 'MMM-BeforeImage',
+		position: 'top_center',
+		header:"전 사진 ! ",
+		config: {
+			imagePaths: ['modules/MMM-BeforeAfter/before']
+		}
+	},
+	{
+		module: 'MMM-AfterImage',
+		position: 'top_center',
+		header:"후 사진! ",
+		config: {
+			imagePaths: ['modules/MMM-BeforeAfter/before']
+		}
+	},
+	{
+			module: "MMM-BeforeAfter",
+			position: "top_right",
+			config:{
+				foo:"yellow"
+			}
+			
+		}
+		
 	]
 
 };
