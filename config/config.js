@@ -61,13 +61,13 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame3',
-			position: 'center',	// This can be any of the regions.
+			position: 'upper_third',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/남자컷댄디.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
+					width: "2000", // width of iframe
 					height: "2000", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
@@ -80,8 +80,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/남자컷리젠트.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -93,8 +93,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/남자컷투블럭.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -106,8 +106,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/남자컷포마드.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -119,8 +119,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/남자펌가르마.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -132,8 +132,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/남자펌리젠트.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -145,8 +145,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/남자펌아이롱.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -158,8 +158,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/여자컷레이어드.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -171,8 +171,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/여자컷보브.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -184,8 +184,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/여자컷숏.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -197,8 +197,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/여자컷히메.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -210,8 +210,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/index.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -223,8 +223,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/index.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -236,8 +236,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/index.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -249,8 +249,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/index.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -262,8 +262,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/index.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -275,8 +275,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/index.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -288,8 +288,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/index.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -301,8 +301,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/index.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 			}
 		},
@@ -314,8 +314,8 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://s3.us-east-2.amazonaws.com/beautymirror.com/demo/index.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "3500", // width of iframe
-					height: "2000", // height of iframe
+					width: "2800", // width of iframe
+					height: "2800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe		
 					hidden : "true",
 			}
@@ -337,7 +337,7 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["https://comic.naver.com/webtoon/weekday.nhn"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "2000", // width of iframe
+					width: "2800", // width of iframe
 					height: "1800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe
 					hide: "true",
@@ -436,7 +436,7 @@ var config = {
 				// See 'Configuration options' for more information.
 					url: ["http://127.0.0.1:9000/remote.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
-					width: "2000", // width of iframe
+					width: "2800", // width of iframe
 					height: "1800", // height of iframe
 					frameWidth: "950", // width of embedded iframe, height is beeing calculated by aspect ratio of iframe
 				}
@@ -498,7 +498,7 @@ var config = {
 						header: 'Internet Monitor',
 						config:{
 								type: '',
-								maxTime: 20000,
+								maxTime: 28000,
 								updateInterval: 0,
 								verbose: false,
 								displayStrength: true,
