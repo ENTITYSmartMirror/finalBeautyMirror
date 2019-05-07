@@ -70,7 +70,7 @@ Module.register("MMM-Testpython", {
       case "I_DID":
         console.log("Socket recevied 1: " + payload);
         var payload3;
-        payload3=payload.toString().split("_");
+        payload3=payload.toString().split(",");
         console.log("Socket recevied 1: " + payload3);
         var elemk = document.getElementById("showage");
         var sex = payload3[0];
