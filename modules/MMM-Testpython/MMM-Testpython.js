@@ -1,13 +1,11 @@
 var Testpythons;
 Module.register("MMM-Testpython", {
-  
 
     defaults: {},
     start: function (){
         Testpythons = this;
     },
 
-  
   getDom: function() {
     var element = document.createElement("div")
     element.className = "myContent"
