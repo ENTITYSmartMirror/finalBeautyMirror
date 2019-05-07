@@ -61,7 +61,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame3',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
@@ -74,7 +74,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame4',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
@@ -87,7 +87,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame5',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
@@ -100,7 +100,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame6',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
@@ -113,7 +113,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame7',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
@@ -126,7 +126,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame8',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
@@ -139,7 +139,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame9',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
@@ -152,7 +152,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame10',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
@@ -165,7 +165,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame11',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
@@ -178,7 +178,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame12',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
@@ -191,7 +191,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame13',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
@@ -204,7 +204,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame14',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
@@ -217,7 +217,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame15',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
@@ -230,7 +230,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame16',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			hide : "true",
 			config: {
 				// See 'Configuration options' for more information.
@@ -243,7 +243,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame17',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			visible : 'false',
 			config: {
 				// See 'Configuration options' for more information.
@@ -256,7 +256,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame18',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			visible : 'false',
 			config: {
 				// See 'Configuration options' for more information.
@@ -269,7 +269,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame19',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			visible : 'false',
 			config: {
 				// See 'Configuration options' for more information.
@@ -282,7 +282,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame20',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			visible : 'false',
 			config: {
 				// See 'Configuration options' for more information.
@@ -295,7 +295,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame21',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			visible : 'false',
 			config: {
 				// See 'Configuration options' for more information.
@@ -308,7 +308,7 @@ var config = {
 		},
 		{
 			module: 'MMM-iFrame22',
-			position: 'bottom_left',	// This can be any of the regions.
+			position: 'center',	// This can be any of the regions.
 			visible : 'false',
 			config: {
 				// See 'Configuration options' for more information.
@@ -391,9 +391,9 @@ var config = {
 		},
 		{
 			module: 'MMM-Remote-Control',
-			position: "bottom_left",
+			position: "center",
 			// uncomment the following line to show the URL of the remote control on the mirror
-			// , position: 'bottom_left'
+			// , position: 'center'
 			// you can hide this module afterwards from the remote control itself
 			config: {
 				customCommand: {},  // Optional, See "Using Custom Commands" below
