@@ -495,7 +495,6 @@ var config = {
 		{
 			module: 'internet-monitor',
 						position: 'top_center',
-						header: 'Internet Monitor',
 						config:{
 								type: '',
 								maxTime: 28000,
@@ -507,17 +506,23 @@ var config = {
 								maxGaugeScale: 100,
 						},
 	},
+                {
+		module: "clock",
+		position: "top_left",
+                config : {
+                    display:"none", 
+		         }
+	        },
 	{
-		module: "MMM-soccer",
+	module: "MMM-soccer",
   	position: "top_left",
   	config: {
-    	api_key: "e353fb53195b43b1a574d8f829f35d13",
-    	show: 'ENGLAND',
-    	logos:true,
-			leagues: {
-      	ENGLAND: 'PL',
-    	},
-  	}
+    	     api_key: "e353fb53195b43b1a574d8f829f35d13",
+    	     show: 'ENGLAND',
+	      leagues: {
+               ENGLAND: 'PL',
+    	               },
+  	        }
 	},
 	{
 		module: "MMM-Snow",
@@ -527,13 +532,7 @@ var config = {
 			theme: "love"			
 		}
 	},
-	{
-		module: "clock",
-		position: "top_right",
-    config : {
-      display:"none", 
-		}
-	},
+	
   {
 		module: "currentweather",
 		position: "top_right",
@@ -573,7 +572,7 @@ var config = {
 	},
 	{
 		module: "newsfeed",
-		position: "bottom_bar",
+		position: "bottom_center",
 		config: {
 		feeds: 
 			[{
