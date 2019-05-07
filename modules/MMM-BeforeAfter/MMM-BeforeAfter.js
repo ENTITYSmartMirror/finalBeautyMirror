@@ -24,7 +24,7 @@ Module.register("MMM-BeforeAfter", {
   
   notificationReceived: function(notification, payload, sender) {
     switch(notification) {
-      case "DOM_OBJECTS_CREATED":
+      case "Modules All Change" :
       var baelem = document.getElementById("BeforeAfterClickid")
       baelem.addEventListener("click", () => {
         /*
@@ -39,12 +39,10 @@ Module.register("MMM-BeforeAfter", {
         //
         //BeforeAfterMoudule.sendSocketNotification("AFTERCAPTURE")
         //BeforeAfterMoudule.sendNotification("LOADINGAFTER")
-        
         //
         console.log(" click2 successex !")
         baelem2.innerHTML = "click2 success"       
       });
-        
     }
   },
   socketNotificationReceived: function(notification, payload) {
