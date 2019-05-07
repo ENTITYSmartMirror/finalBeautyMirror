@@ -14,10 +14,10 @@ Module.register("MMM-BeforeAfter", {
     var BAsubElement = document.createElement("p")
     BAsubElement.innerHTML = "Click test" 
     BAsubElement.id = "BeforeAfterClickid"
+    BAelement.appendChild(BAsubElement)
     var BAsubElement2 = document.createElement("p")
     BAsubElement2.innerHTML = "Click2" 
     BAsubElement2.id = "BeforeAfterClickid2"
-    BAelement.appendChild(BAsubElement)
     BAelement.appendChild(BAsubElement2)
     return BAelement
   },
@@ -33,18 +33,18 @@ Module.register("MMM-BeforeAfter", {
         */
         console.log(" click successex !")
         baelem.innerHTML = "click success"       
-      }) 
+      });
       var baelem2 = document.getElementById("BeforeAfterClickid2")
       baelem2.addEventListener("click", () => {
         //
-        BeforeAfterMoudule.sendSocketNotification("AFTERCAPTURE")
-        BeforeAfterMoudule.sendNotification("LOADINGAFTER")
+        //BeforeAfterMoudule.sendSocketNotification("AFTERCAPTURE")
+        //BeforeAfterMoudule.sendNotification("LOADINGAFTER")
         
         //
         console.log(" click2 successex !")
         baelem2.innerHTML = "click2 success"       
-      }) 
-        break
+      });
+        
     }
   },
   socketNotificationReceived: function(notification, payload) {
