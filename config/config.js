@@ -434,7 +434,7 @@ var config = {
 			position: "top_center",	// This can be any of the regions.
 			config: {
 				// See 'Configuration options' for more information.
-					url: ["http://172.16.98.14:9000/remote.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
+					url: ["http://127.0.0.1:9000/remote.html"],  // as many URLs you want or you can just ["ENTER IN URL"] if single URL.
 					updateInterval: 0.5 * 60 * 1000, // rotate URLs every 30 seconds
 					width: "2000", // width of iframe
 					height: "1800", // height of iframe
