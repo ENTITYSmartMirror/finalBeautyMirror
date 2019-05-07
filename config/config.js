@@ -478,6 +478,7 @@ var config = {
 					"Slide 4": ['MMM-Testpython','MMM-iFrame17','MMM-iFrame18','MMM-iFrame19','MMM-iFrame20','MMM-iFrame21','MMM-iFrame22','MMM-Dynamic-Modules','mm-hide-all'],
 					"Slide 5": ['MMM-AfterImage','MMM-BeforeImage','MMM-BeforeAfter','mm-hide-all'],
 					"Slide 6": ['MMM-iFrame41','mm-hide-all','MMM-MovieInfo'],
+					"Slide 7": ['MMM-HistoryImage1','MMM-HistoryImage2','MMM-HistoryImage3','MMM-HistoryImage4'],
 				},
 				keyBindings: { 
 					enabled: true,
@@ -620,7 +621,42 @@ var config = {
 				foo:"yellow"
 			}
 			
-		}
+		},
+		{
+			module: "MMM-HistoryImage1",
+			position: 'top_center',
+			header:" FUCK ",
+			config: {
+			imagePaths: ['modules/MMM-BeforeAfter/before']
+			}
+		},
+		{
+			module: "MMM-HistoryImage2",
+			position: 'top_center',
+			header:" FUCK ",
+			config: {
+			imagePaths: ['modules/MMM-BeforeAfter/before']
+			}
+		},
+		{
+			module: "MMM-HistoryImage3",
+			position: 'top_center',
+			header:" FUCK ",
+			config: {
+			imagePaths: ['modules/MMM-BeforeAfter/before']
+			}
+		},
+		{
+			module: "MMM-HistoryImage4",
+			position: 'top_center',
+			header:" FUCK ",
+			config: {
+			imagePaths: ['modules/MMM-BeforeAfter/before']
+			}
+		},
+		
+			
+		
 		
 	]
 
